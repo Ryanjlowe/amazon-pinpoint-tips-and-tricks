@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Amazon Pinpoint Tips & Tricks"
+publishDir = "docs"
+theme = "hugo-sugoi"
+
+summaryLength = 20
+paginate = 5
+# Google Analytics ID, Uncomment below line to enable
+# googleAnalytics = "UA-123-45"
+
+# Enter your disqus Shortname and uncomment below line to enable
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+favicon = "images/favicon.png"
+herotitle = "Amazon Pinpoint Tips & Tricks"
+herolink = "https://github.com/aanupam23/hugo-sugoi"
+herolinktext = "Check Now"
+contact = "Send me a message and I will get back as soon as possible."
+
+[hero]
+
+[menu]
+    
