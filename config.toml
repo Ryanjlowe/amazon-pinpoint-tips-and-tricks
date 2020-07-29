@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ryanjlowe.github.io/amazon-pinpoint-tips-and-tricks/"
 languageCode = "en-us"
 title = "Amazon Pinpoint Tips & Tricks"
 publishDir = "docs"
@@ -6,6 +6,10 @@ theme = "hugo-sugoi"
 
 summaryLength = 20
 paginate = 5
+
+disableKinds = ["RSS"]
+
+
 # Google Analytics ID, Uncomment below line to enable
 # googleAnalytics = "UA-123-45"
 
@@ -15,11 +19,10 @@ paginate = 5
 [params]
 favicon = "images/favicon.png"
 herotitle = "Amazon Pinpoint Tips & Tricks"
-herolink = "https://github.com/aanupam23/hugo-sugoi"
+herolink = "https://ryanjlowe.github.io/amazon-pinpoint-tips-and-tricks/"
 herolinktext = "Check Now"
 contact = "Send me a message and I will get back as soon as possible."
 
 [hero]
 
 [menu]
-    
